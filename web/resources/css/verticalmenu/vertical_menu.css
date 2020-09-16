@@ -1,0 +1,38 @@
+/* Issu de w3 school, tuto sur les menus verticaux*/
+.vertical-menu {
+
+}
+
+.vertical-menu a {
+    background-color: #eee; /* Grey background color */
+    color: black; /* Black text color */
+    display: block; /* Make the links appear below each other */
+    padding: 12px; /* Add some padding */
+    text-decoration: none; /* Remove underline from links */
+}
+
+.vertical-menu a:hover {
+    background-color: #ccc; /* Dark grey background on mouse-over */
+}
+
+.vertical-menu a.active {
+    background-color: #f8f8f8; /* Add a green color to the "active/current" link */
+    color: black;
+}
+
+.vertical-menu header {
+display :block ;
+padding : 12px ;
+text-decoration : none ;
+background-color :#222 ;
+color : #9d9d9d ;
+border-radius : 5px 5px 0px 0px ;
+}
+.vertical-menu form {
+    background-color: #eee; /* Grey background color */
+    color: black; /* Black text color */
+    display: block; /* Make the links appear below each other */
+    padding: 12px; /* Add some padding */
+    text-decoration: none; /* Remove underline from links */
+}
+

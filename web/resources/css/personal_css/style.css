@@ -1,0 +1,18 @@
+.description 
+{
+	max-height : 450px;
+	overflow :auto ;
+}
+
+.progress {
+  position: relative;
+    background-color: white;
+}
+
+.progress span {
+    position: absolute;
+    display: block;
+    width: 100%;
+    color: #2f2f3f;
+}
+
